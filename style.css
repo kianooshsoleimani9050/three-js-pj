@@ -1,0 +1,13 @@
+main {
+  position: absolute;
+}
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* overflow: hidden; */
+}
+h4 {
+  z-index: 1000;
+  color: #ffffff !important;
+}
